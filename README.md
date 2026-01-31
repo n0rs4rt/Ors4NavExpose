@@ -8,8 +8,7 @@
 
 **Ors4Nav-Expose** es una herramienta enfocada en la extracción y análisis automatizado de información generada en navegadores web.
 
-Permite identificar actividad de navegación, históricos detallados,  datos asociados a cuentas, marcadores, descargas, cuentas de usuarios,  
-registros vinculados a procesos de compra y métodos de pago utilizados,  presentando la información de forma estructurada para su análisis.
+Permite identificar actividad de navegación, históricos detallados,  datos asociados a cuentas, marcadores, descargas, cuentas de usuarios, registros vinculados a procesos de compra y métodos de pago utilizados,  presentando la información de forma estructurada para su análisis.
 
 Todo el desarrollo está orientado a investigación y análisis **OSINT**,  aplicando técnicas y procesos alineados estrictamente  a los límites y alcances permitidos por el marco legal.
 
