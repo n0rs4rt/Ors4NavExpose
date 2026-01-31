@@ -1,8 +1,8 @@
-# Ors4Snap-Expose
+#Ors4Nav-Expose
 
 ## Proyecto en desarrollo
 
-**Ors4Snap-Expose** es una herramienta enfocada en la extracción y análisis automatizado  
+**Ors4Nav-Expose** es una herramienta enfocada en la extracción y análisis automatizado  
 de información generada en navegadores web.
 
 Permite identificar actividad de navegación, históricos detallados,  
