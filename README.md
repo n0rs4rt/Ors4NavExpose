@@ -4,8 +4,6 @@
 
 ---
 
-# **Ors4Nav-Expose** 
-
 Actualmente funciona en un entorno de consola, siendo una solución ligera, rápida y funcional.
 
 En futuras versiones se implementará una interfaz gráfica, mejorando la usabilidad y ampliando sus capacidades.
@@ -20,7 +18,7 @@ Todo el desarrollo está orientado a investigación y análisis OSINT, aplicando
 
 ---
 
-#Navegadores soportados
+# Navegadores soportados
 
 - Google Chrome  
 - Microsoft Edge  
