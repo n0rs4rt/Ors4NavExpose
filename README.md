@@ -145,7 +145,7 @@ Incluye:
 ## Ejemplos
 
 ### Vista general
-![Ors4Nav-Expose Banner](https://github.com/n0rs4rt/Ors4NavExpose/blob/703bc049c1903ac73f4603ec40d4e5643cd849af/assets/barner.jpg)
+![Ors4Nav-Expose Banner](https://github.com/n0rs4rt/Ors4NavExpose/blob/d3931d590246b080f6d32edd6065d10866cc6720/assets/ORS4-NavExpose.png)
 
 ### Consola
 <img src="LINK_IMAGEN_CONSOLA">
