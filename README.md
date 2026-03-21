@@ -39,6 +39,7 @@ La herramienta permite extraer información y exportarla en múltiples formatos:
 - SQLite  
 
 Los datos se crean y se organizan automáticamente para facilitar su análisis.
+
 ---
 
 ## Tipos de datos extraídos
