@@ -144,17 +144,23 @@ Incluye:
 
 ## Ejemplos
 
-### Consola
-!(https://github.com/n0rs4rt/Ors4NavExpose/blob/d3931d590246b080f6d32edd6065d10866cc6720/assets/ORS4-NavExpose.png)
+### Inicio
+![Ors4Nav-Expose](https://github.com/n0rs4rt/Ors4NavExpose/blob/d3931d590246b080f6d32edd6065d10866cc6720/assets/ORS4-NavExpose.png)
 
-### Consola
-<img src="LINK_IMAGEN_CONSOLA">
+### Resumen General
+![Ors4Nav-Expose](https://github.com/n0rs4rt/Ors4NavExpose/blob/7a1de73e2887874657e2ea70edd8799ccbf9aab8/assets/ORS4-NavExpose0.png)
 
-### Base de datos
-<img src="LINK_IMAGEN_DB">
+### Resumen General
+![Ors4Nav-Expose](https://github.com/n0rs4rt/Ors4NavExpose/blob/7a1de73e2887874657e2ea70edd8799ccbf9aab8/assets/ORS4-NavExpose1.png)
+
+### Historial Descarga
+![Ors4Nav-Expose](https://github.com/n0rs4rt/Ors4NavExpose/blob/7a1de73e2887874657e2ea70edd8799ccbf9aab8/assets/historial_descargas.png)
+
+### Historial
+![Ors4Nav-Expose](https://github.com/n0rs4rt/Ors4NavExpose/blob/7a1de73e2887874657e2ea70edd8799ccbf9aab8/assets/historial.png)
 
 ### Reporte PDF
-<img src="LINK_IMAGEN_PDF">
+![Ors4Nav-Expose](https://github.com/n0rs4rt/Ors4NavExpose/blob/7a1de73e2887874657e2ea70edd8799ccbf9aab8/assets/reporte.png)
 
 ---
 
