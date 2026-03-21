@@ -121,7 +121,7 @@ Información parcial por seguridad:
 
 ---
 
-## 📄 Reporte PDF
+## Reporte PDF
 
 La herramienta genera automáticamente un reporte en PDF.
 
@@ -142,10 +142,10 @@ Incluye:
 
 ---
 
-## 🖼️ Ejemplos
+## Ejemplos
 
 ### Vista general
-<img src="LINK_IMAGEN_RESULTADO">
+![Ors4Nav-Expose Banner](https://github.com/n0rs4rt/Ors4NavExpose/blob/703bc049c1903ac73f4603ec40d4e5643cd849af/assets/barner.jpg)
 
 ### Consola
 <img src="LINK_IMAGEN_CONSOLA">
