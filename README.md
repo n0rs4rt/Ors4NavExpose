@@ -16,6 +16,8 @@ El reporte en PDF muestra un resumen de los resultados obtenidos, mientras que l
 
 Todo el desarrollo está orientado a investigación y análisis OSINT, aplicando técnicas y procesos alineados estrictamente a los límites y alcances permitidos por el marco legal.
 
+[ Descargar última versión](https://github.com/n0rs4rt/Os4NetProfiles/releases/download/V.1.0/ORS4_NET_PROFILES.zip)
+
 ---
 
 # Navegadores soportados
@@ -52,7 +54,7 @@ Los datos se crean y se organizan automáticamente para facilitar su análisis.
   
 ---
 
-### 📥 Descargas
+### Descargas
 
 - URL de origen  
 - URL directa del archivo  
@@ -171,4 +173,5 @@ Este proyecto está orientado a **fines de investigación, análisis y estudio d
 Su diseño busca alcanzar el máximo nivel de análisis permitido dentro de los márgenes legales,  sin exceder ni comprometer límites técnicos o normativos.
 
 La herramienta está pensada para profesionales del área de seguridad,  análisis **OSINT** y entornos de investigación controlados.
+
 ---
