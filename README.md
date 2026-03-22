@@ -16,7 +16,7 @@ El reporte en PDF muestra un resumen de los resultados obtenidos, mientras que l
 
 Todo el desarrollo está orientado a investigación y análisis OSINT, aplicando técnicas y procesos alineados estrictamente a los límites y alcances permitidos por el marco legal.
 
-[ Descargar última versión](https://github.com/n0rs4rt/Os4NetProfiles/releases/download/V.1.0/ORS4_NET_PROFILES.zip)
+[ Descargar última versión](https://github.com/n0rs4rt/Ors4NavExpose/releases/download/V1.0/ORS4-NavExpose.zip)
 
 ---
 
