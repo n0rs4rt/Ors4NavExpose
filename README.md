@@ -167,12 +167,54 @@ Incluye:
 
 ---
 
+# Notas sobre los datos
+
+En las bases de datos generadas, algunas columnas como:
+
+- ID  
+- Perfil  
+- Nombre del perfil  
+- Email asociado  
+- Usuario  
+
+pueden aparecer repetidas en múltiples registros.
+
+Esto es completamente normal.
+
+Estos valores se utilizan para identificar a qué perfil pertenece cada dato extraído, permitiendo mantener la relación entre la información procesada y el usuario correspondiente.
+
+---
+
 ## Alcance y consideraciones
 
-Este proyecto está orientado a **fines de investigación, análisis y estudio de información digital**.  
+Este proyecto está orientado a **fines de investigación, análisis y estudio de información digital**.
 
-Su diseño busca alcanzar el máximo nivel de análisis permitido dentro de los márgenes legales,  sin exceder ni comprometer límites técnicos o normativos.
+Su diseño busca alcanzar un alto nivel de análisis dentro de los márgenes legales, sin exceder ni comprometer límites técnicos o normativos.
 
-La herramienta está pensada para profesionales del área de seguridad,  análisis **OSINT** y entornos de investigación controlados.
+La herramienta está pensada para profesionales del área de seguridad, análisis **OSINT** y entornos de investigación controlados.
+
+---
+
+### Detección por antivirus
+
+En algunos casos, ciertos antivirus pueden detectar la herramienta como una posible amenaza.
+
+Esto puede deberse a que el programa interactúa con información interna del sistema y de los navegadores, lo cual puede ser interpretado como comportamiento sospechoso.
+
+Sin embargo, se trata de un **falso positivo**, y la herramienta puede utilizarse con normalidad en entornos controlados.
+
+---
+
+### Ejecución y posibles errores
+
+En caso de que se presenten errores al ejecutarla, se recomienda:
+
+- Ejecutar como administrador  
+- Verificar permisos del sistema  
+- Reportar cualquier fallo encontrado  
+
+Recuerda que esta es una versión inicial.
+
+Durante las pruebas realizadas en diferentes equipos no se han detectado errores.
 
 ---
