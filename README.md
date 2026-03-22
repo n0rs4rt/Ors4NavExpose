@@ -55,7 +55,7 @@ Los datos se crean y se organizan automáticamente para facilitar su análisis.
   
 ---
 
-### Descargas
+escargas
 
 - URL de origen  
 - URL directa del archivo  
